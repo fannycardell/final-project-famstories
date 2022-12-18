@@ -1,1 +1,1 @@
-# Final Project fot Technigo
+# Final Project for Technigo
